@@ -35,8 +35,8 @@ body{
 .content-gerdany {
      
 } 
-.content-gerdany-w-top {
-     padding-top: 20px;
+.content-gerdany-w-top { 
+     padding-top: 80px;
 } 
 .content-gerdany-w-bottom {
      padding-bottom: 70px;
@@ -63,18 +63,18 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: transparent;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #aaa;
+  background: transparent;
  
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #bbb;
+  background:transparent;
 }
 .cust-input{
 	width: 100%;
