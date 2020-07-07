@@ -55,6 +55,7 @@ html {
 	--main-color-hover: #ecb974;
 	--secondary-color:#231f20;
 	--secondary-color-hover:#4a4439;
+    --danger-color:#a84753;
     scroll-behavior: smooth; 
 }
 /* width */
@@ -101,6 +102,10 @@ html {
 .main-bg-color{
 	background: var(--main-color)!important;
 }
+.bg-danger-color{
+    background: var(--danger-color)!important;
+}
+
 .secondary-bg-color{
 	background: var(--secondary-color)!important;
 }
