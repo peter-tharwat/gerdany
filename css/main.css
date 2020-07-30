@@ -105,6 +105,9 @@ html {
 .bg-danger-color{
     background: var(--danger-color)!important;
 }
+.danger-color{
+    color: var(--danger-color)!important;
+}
 
 .secondary-bg-color{
 	background: var(--secondary-color)!important;
